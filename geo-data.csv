@@ -5527,10 +5527,10 @@ state_fips,state,state_abbr,zipcode,county,city
 13,Georgia,GA,30039,Gwinnett,Zcta 30039
 13,Georgia,GA,30040,Forsyth,Zcta 30040
 13,Georgia,GA,30041,Forsyth,Zcta 30041
-13,Georgia,GA,30043,Gwinnett,Zcta 30043
-13,Georgia,GA,30044,Gwinnett,Zcta 30044
-13,Georgia,GA,30045,Gwinnett,Zcta 30045
-13,Georgia,GA,30047,Gwinnett,Zcta 30047
+13,Georgia,GA,30043,Gwinnett,Lawrenceville
+13,Georgia,GA,30044,Gwinnett,Lawrenceville
+13,Georgia,GA,30045,Gwinnett,Lawrenceville
+13,Georgia,GA,30047,Gwinnett,Liburn
 13,Georgia,GA,30052,Walton,Zcta 30052
 13,Georgia,GA,30054,Newton,Zcta 30054
 13,Georgia,GA,30055,Newton,Zcta 30055
